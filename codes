@@ -1,8 +1,5 @@
-#include<bits/stdc++.h>
+#Hello World
 
-using namespace std;
+Hi, sbs!
 
-int main(){
-  cout<<"Hello World!"<<endl;
-  return 0;
-}
+Sb is around me!
